@@ -1,0 +1,4 @@
+﻿  pointsandvector.cpp
+C:\Users\pandiaraj subburaj\Documents\acad\6\Geometric Modelling an Computer Graphics\LAB3\repos\stepone\src\pointsandvector.cpp(57,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pandiaraj subburaj\Documents\acad\6\Geometric Modelling an Computer Graphics\LAB3\repos\stepone\src\pointsandvector.cpp(80,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  StaticLib1.vcxproj -> C:\Users\pandiaraj subburaj\Documents\acad\6\Geometric Modelling an Computer Graphics\LAB3\repos\stepone\StaticLib1\x64\Debug\StaticLib1.lib
